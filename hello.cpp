@@ -5,5 +5,6 @@ void main(){
 }
 
 int feature1(){
-    
+    int x;
+    int y;
 }
